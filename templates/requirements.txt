@@ -1,4 +1,4 @@
 flask
 groq
 mistralai
-requests
+python-dotenv
